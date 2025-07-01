@@ -1,6 +1,6 @@
-## I'm Shivam Prajapati 
+## I'm Shivam Prajapati 😊
 
-A passionate **Full Stack Developer** who loves building scalable web applications and solving real-world problems using technology.
+A tech enthusiast **Full Stack Developer** passionate about building robust web applications and using code to solve real-world challenges.
 
 ### 🚀 About Me
 
