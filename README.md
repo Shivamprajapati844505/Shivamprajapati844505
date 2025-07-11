@@ -30,9 +30,6 @@ A tech enthusiast **Full Stack Developer** passionate about building robust web 
 
 ![Shivam's GitHub stats](https://github-readme-stats.vercel.app/api?username=Shivamprajapati844505&show_icons=true&theme=radical)
 
-### 🏆 GitHub Trophies
-
-![Trophies](https://github-profile-trophy.vercel.app/?username=Shivamprajapati844505&theme=radical&no-frame=true&no-bg=true&margin-w=10)
 
 ---
 
