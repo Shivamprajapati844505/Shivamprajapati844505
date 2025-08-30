@@ -8,7 +8,7 @@ A tech enthusiast **Full Stack Developer** passionate about building robust web 
 - ☁️ Familiar with **SQL**, **AWS**,  and cloud deployment
 - 🌱 Currently sharpening my skills in **DevOps** and **Cloud Deployment**
 - 🔭 Always excited to work on challenging and impactful projects
-- 📫 Reach me at: [shivamprajapati844505@gmail.com](mailto:shivamprajapati844505@gmail.com)
+- 📫 Reach me at: [shivamprajapati844505@gmail.com](mailto:shivamprajapati.code@gmail.com)
 - 🌐 Portfolio: [https://shivam-portfolio-njqd.onrender.com](https://shivam-portfolio-njqd.onrender.com)
 
 ### 🛠️ Technologies & Tools
